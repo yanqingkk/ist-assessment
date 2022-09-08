@@ -1,0 +1,15 @@
+
+@import "./css/common.css";
+
+.logo {
+    max-width: 50px;
+}
+.logo2 {
+    max-width: 90px;
+}
+
+.head-title {
+    display: flex;
+    justify-content: center;
+}
+

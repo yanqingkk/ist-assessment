@@ -1,0 +1,32 @@
+@import "./css/common.css";
+
+.obeimg {
+    max-width: 200px; ;
+}
+
+.logo {
+    max-width: 50px;
+}
+.logo2 {
+    max-width: 90px;
+}
+
+
+.card {
+    display: inline-block;
+    border: 1px solid;
+    padding: 2px;
+    margin-right: 4px;
+    width: 200px;
+    margin-bottom: 4px;
+    background: rgb(89, 115, 131);
+}
+
+strong 
+{
+    color:white
+}
+
+body {
+    justify-content: ;
+}
