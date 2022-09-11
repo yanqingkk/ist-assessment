@@ -8,8 +8,12 @@
     max-width: 90px;
 }
 
+
 .head-title {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
+
 
